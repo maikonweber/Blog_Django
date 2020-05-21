@@ -1,0 +1,2 @@
+-> App criada de um blog em Django
+-> Utilado Bootstraps Examples como front-end
